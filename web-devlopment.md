@@ -66,5 +66,62 @@ Le bakcend c'est ce qui se passe dans la cuisine, la preparation de la nouriture
 Okay, on commence à avoir faim comment developer le front end , et le backend?
 
 ### Front end 
+
+Pour ce qui est d'apprendre le front end 3 technologies sont important Le HTML, le CSS, et Le Javascript
+
+Ce blog n'as pas pour but d'expliquer le 3 technologies, l'internet est plein de ressources por cela.
+
+Dans la suite je vais lister ce qu'il faut à tous pris savoir de ce trois technologies :
+
+#### HTML
+
+- Savoir ce que le HTML (hint: ce n'est pas un language de programmation)
+- Apprendre les basics de HTML
+- Apprendre la semantic HTML
+- Les formulaires et les validations
+- Apprendre les conventions et les bonnes pratiques de HTML
+- Apprendre l'accesibilité
+
+#### CSS
+
+- Savoir ce quoi le CSS (comme le html ce n'est pas un language de programmation)
+- Apprendre la mise en page et disposition avec CSS :
+    - Floats
+    - Positionement 
+    - Affichage 
+    - les grilles CSS
+    - Flex Box
+- le design resposinsive et les media queries.
+
+Notes sur les frameworks , bien que les frameworks facilitent le development rapide des applciaitons et design, je ne le recomande pas personnellement pour l'apprentissage.
+Apprenez le vanilla CSS et vous serez capable de comprendre n'importe quel framework.
+
+Une fois que vous ayez appris ces concepts , construisez quelque chose , votre propre site uniquement en HTML et CSS et verifier si responsive sur les appareils mobiles.
+C'est deja un bon point de départ pour devenir un bon front end developpeur.
+
+#### Javascript 
+
+JavaScript est  un language de programation qui permet d'ajouter du dynamisme sur votre site web. c'est un language très vaste , et la plupart si pas presque tous le web est en javascript actuelement.
+
+Voici certains concepts qu'il faut à tous pris apprendre :
+
+- La syntaxe du Language
+- la manipulation du DOM ou des elements HTML
+- Apprenez Fetch et Ajax
+- Apprenez aussi la nouvelle syntaxe ES6
+- Apprenez la programmation evenementiel avec javascript.
+
+
+Une fois ces concepts bien maitrisé , vous pouvez continuer avec le project et y aajouter du dynamisme.
+Disons que vous maitrisé le concepts ci haut, quoi faire d'autre , normalment vous devrait montrez votre projet aux gens,et la meilleur façon de le faire c'est de mettre votre projet sur Github.
+C'est pourquoi je vous suggere aussi d'apprendre l'usage simple de git et comment mettre son projet sur Github.
+
+
+
+
 https://roadmap.sh/frontend
+
+https://roadmap.sh/frontend
+
+https://dev.to/kayis/what-would-you-teach-a-frontend-beginner-4im1 
 ### Backend
